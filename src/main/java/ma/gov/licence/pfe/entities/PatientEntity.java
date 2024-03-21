@@ -15,4 +15,5 @@ public class PatientEntity {
     private Long id;
     private String name;
     private String adresse;
+
 }
