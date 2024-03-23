@@ -16,5 +16,6 @@ spring:
 
 logging:
   level:
+    org.springframework.security: DEBUG
     org.springframework.web : INFO
     ma.gov.licence.pfe : DEBUG
