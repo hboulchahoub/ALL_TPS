@@ -1,6 +1,4 @@
 
-n
->src/main/java/ma/gov/licence/pfe/config/DescriptionConfig.java,f\8\f80b3f77ca7f8e7ef66b33e9952469dad85d1f00
 e
 5src/main/java/ma/gov/licence/pfe/dtos/PatientDto.java,3\3\33163977934849f9f2aa2ebb9bf1a738cd87b008
 t
@@ -13,15 +11,9 @@ t
 Dsrc/main/java/ma/gov/licence/pfe/repositories/HopitalRepository.java,a\d\adc7fc7ebf01596546d0274255eed4520b8be35d
 n
 >src/main/java/ma/gov/licence/pfe/services/IPatientService.java,f\d\fd3de47abdcded9de0ff5322e2ac962958af572b
-l
-<src/main/java/ma/gov/licence/pfe/entities/HopitalEntity.java,e\7\e7e71e33822b771c27a7539cc6accc71e67f997d
 n
 >src/main/java/ma/gov/licence/pfe/services/IHopitalService.java,7\f\7f1fe14e4bb3c4240c7d547f2334253adc2a9f8d
 q
 Asrc/main/java/ma/gov/licence/pfe/services/HopitalServiceImpl.java,1\7\17a4e91bacfd956b20bcf660d62f34c8d46dfa34
-t
-Dsrc/main/java/ma/gov/licence/pfe/presentation/HopitalController.java,4\4\44524f7e3461fd948018a436737950e4565f6799
-e
-5src/main/java/ma/gov/licence/pfe/dtos/HopitalDto.java,d\c\dc1a3c664468373a4866922978059c8d79dae6c6
 k
 ;src/main/java/ma/gov/licence/pfe/mappers/HopitalMapper.java,0\d\0d3d74f96f5ec016e62099af9ac9438de20ce676
