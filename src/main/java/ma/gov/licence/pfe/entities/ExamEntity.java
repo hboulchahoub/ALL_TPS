@@ -7,11 +7,9 @@ import java.time.LocalDateTime;
 
 @Entity(name = "T_EXAMS")
 @Data
-@Inheritance(strategy = InheritanceType.JOINED)
-@PrimaryKeyJoinColumn
 public class ExamEntity {
     @Id
-    @GeneratedValue(strategy = GenerationType.TABLE)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String label;
     private String createdAt = "" + LocalDateTime.now();
